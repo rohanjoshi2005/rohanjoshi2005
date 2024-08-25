@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanjoshi2005&label=Profile%20views&color=0e75b6&style=flat" alt="rohanjoshi2005" /> </p>
 
+- 🏫 I'm currently 2nd year BTech student of cse at **Amity University**
+
 - 🌱 I’m currently learning **C and C++**
 
 - 📫 How to reach me **rohanjoshi2005@gmail.com**
