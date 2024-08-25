@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohan Joshi</h1>
 <h3 align="center">Eager to deepen my strength for programming languages</h3>
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdxYmliMGxxc3NleWhtOHFwcWZ3ejRkZWY2M2Zjb25wNmQ2azNvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ofSB18evquajEBk9a/giphy.webp" alt="coding">
-
+<br>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh0dWdlcmJuZmt5MWFhYzhxbG1hdThsM2E3bGc5MGh4anp4MTMwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZdfpB7FMYFhenlc7kN/giphy.webp" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanjoshi2005&label=Profile%20views&color=0e75b6&style=flat" alt="rohanjoshi2005" /> </p>
-
 - 🏫 I'm currently 2nd year BTech student of cse at **Amity University**
 
 - 🌱 I’m currently learning **C and C++**
