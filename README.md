@@ -1,4 +1,4 @@
-![MasterHead](https://scontent.fdel27-5.fna.fbcdn.net/v/t39.30808-6/307169434_463637729129802_7385694649258367733_n.jpg?stp=dst-jpg_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=4DrHorK2xukQ7kNvgG8EGdW&_nc_ht=scontent.fdel27-5.fna&oh=00_AYDM98PuXjFggI8WJaTzqSWfX6rAcNT5Z3YlUoZ4if1RqQ&oe=66D1544E)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Rohan Joshi</h1>
 <h3 align="center">Eager to deepen my strength for programming languages</h3>
 <br>
